@@ -7,7 +7,7 @@
 📱 Part-time at **PEX** – building a mobile app  
 
 ### 🔭 Currently Working On
-- **Vibe Search App** – lets people search for media online based on vibes (built with **Deno + VectorDB**)  
+- **Vibe Search App** – lets people search for media online based on vibes (built with **Deno + Vector DB**)  
 
 ### 🌱 Currently Learning
 - **Go**  
