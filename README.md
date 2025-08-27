@@ -17,7 +17,8 @@ HTML • CSS • JavaScript • Node.js • Deno • Python • PHP • Laravel 
 
 ### 📂 Previous Projects
 - **[Scan](https://scans.omnaris.xyz/)** – Warehouse scanning app  
-- **[One Million Images](https://omnaris.xyz/)** – 1000x1000 image grid project  
+- **[One Million Images](https://omnaris.xyz/)** – 1000x1000 image grid project
+- **CSV Scanning App & API** -  
 - **Portfolio** – Personal showcase *(In Progress)*  
 
 ### 💬 About Me
