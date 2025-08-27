@@ -16,9 +16,9 @@
 HTML • CSS • JavaScript • Node.js • Deno • Python • PHP • Laravel • React Native • Next.js • C  
 
 ### 📂 Previous Projects
-- **Scan** – Warehouse scanning app - **scans.omnaris.xyz**  
-- **One Million Images** – 1000x1000 image grid project - **omnaris.xyz**
-- **Portfolio** – Personal showcase - **In Progress**  
+- **[Scan](https://scans.omnaris.xyz/)** – Warehouse scanning app  
+- **[One Million Images](https://omnaris.xyz/)** – 1000x1000 image grid project  
+- **Portfolio** – Personal showcase *(In Progress)*  
 
 ### 💬 About Me
 - 📫 How to reach me: **danilsidorov8625@gmail.com**  
