@@ -28,3 +28,7 @@ HTML • CSS • JavaScript • Node.js • Deno • Python • PHP • Laravel 
 🌟 Looking to transition fully into **Software Development** and grow my skills across the stack.  
 
 ---
+
+📌 **Note:**  
+This GitHub (**DanilSidorov8625**) is for **production projects**.  
+My old GitHub (**[DanilSidorov1737](https://github.com/DanilSidorov1737)**) is my **dev/test account**.  
