@@ -21,7 +21,9 @@ HTML • CSS • JavaScript • Node.js • Deno • Python • PHP • Laravel 
 - **Portfolio** – Personal showcase *(In Progress)*
 
 ### 💼 Part Time / Contract Work
-- **CSV Scanning App & API** - 
+- 📱 **SP Scanner & API** - An internal warehouse tool built with React Native and Node.js, optimized for Android scanners, enabling fast barcode capture, CSV exports, and API access with role-based workflows.
+- 📱 **PEX App** – A React Native companion to the PEX website, designed to bring core features to mobile with seamless integration, real-time sync, and a streamlined user experience.
+- 🖥️ **PEX** - Modernizing a legacy PHP codebase while building new features in React Native and Node.js. Contributions include developing and updating pages, improving workflows, and enhancing the admin portal to support better management and scalability.
 
 ### 💬 About Me
 - 📫 How to reach me: **danilsidorov8625@gmail.com**  
