@@ -16,7 +16,7 @@
 HTML • CSS • JavaScript • Node.js • Deno • Python • PHP • Laravel • React Native • Next.js • C  
 
 ### 📂 Previous Projects
-- **[Scan](https://scans.omnaris.xyz/)** — Warehouse scanning app built with **Node.js** and **HTML/EJS**; supports barcode input, analytics, and CSV/email exports.
+- **[Scan](https://scans.omnaris.xyz/)** — Warehouse scanning app built with **Node.js** and **EJS**; supports barcode input, analytics, and CSV/email exports.
 - **[One Million Images](https://omnaris.xyz/)** — Collaborative **Node.js + React/vanilla JS** project rendering a **1000×1000 image grid** with realtime uploads, zoom/pan, and caching.
 - **Portfolio** — Personal showcase *(In Progress, built with React)*.
 
