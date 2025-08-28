@@ -13,7 +13,7 @@
 ### 🔧 Tech Stack
 **Frontend:** HTML • CSS • JavaScript • React • React Native • Next.js  
 **Backend:** Node.js • Deno • PHP • Laravel • Python • Go  
-**Other:** SQL/SQLite • Docker • Git • C  
+**Other:** SQL/SQLite • Docker • Git • C • Linux OS • Docker Compose • Expo • EAS 
 
 ### 📂 Previous Projects
 - **[Scan](https://scans.omnaris.xyz/)** — Warehouse scanning app built with **Node.js** and **EJS**; supports barcode input, analytics, and CSV/email exports.  
