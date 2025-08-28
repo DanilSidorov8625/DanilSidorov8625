@@ -1,36 +1,36 @@
-## Hi there 👋
+## Hi, I'm Danil 👋  
 
-# I'm Danil  
-
-💼 Currently working at **Verizon** in Project Management  
+💼 Currently at **Verizon** (Project Management)  
 🖥️ Passionate about **Full-Stack Development** (Frontend & Backend)  
-📱 Part-time at **PEX** – building a mobile app  
+📱 Part-time at **PEX** – building modern apps & improving legacy systems  
 
 ### 🔭 Currently Working On
-- **Vibe Search App** – lets people search for media online based on vibes (built with **Deno + Vector DB**)  
+- **Vibe Search App** – Search media online based on vibes (built with **Deno + Vector DB**)  
 
 ### 🌱 Currently Learning
 - **Go**  
 
 ### 🔧 Tech Stack
-HTML • CSS • JavaScript • Node.js • Deno • Python • PHP • Laravel • React Native • Next.js • C  
+**Frontend:** HTML • CSS • JavaScript • React • React Native • Next.js  
+**Backend:** Node.js • Deno • PHP • Laravel • Python • Go  
+**Other:** SQL/SQLite • Docker • Git • C  
 
 ### 📂 Previous Projects
-- **[Scan](https://scans.omnaris.xyz/)** — Warehouse scanning app built with **Node.js** and **EJS**; supports barcode input, analytics, and CSV/email exports.
-- **[One Million Images](https://omnaris.xyz/)** — Collaborative **Node.js + React/vanilla JS** project rendering a **1000×1000 image grid** with realtime uploads, zoom/pan, and caching.
-- **Portfolio** — Personal showcase *(In Progress, built with React)*.
+- **[Scan](https://scans.omnaris.xyz/)** — Warehouse scanning app built with **Node.js** and **EJS**; supports barcode input, analytics, and CSV/email exports.  
+- **[One Million Images](https://omnaris.xyz/)** — Collaborative **Node.js + vanilla JS** project rendering a **1000×1000 image grid** with realtime uploads, zoom/pan, and caching.  
+- **Portfolio** — Personal showcase *(In Progress, built with React)*.  
 
-### 💼 Part Time / Contract Work
-- 📱 **SP Scanner & API** - An internal warehouse tool built with React Native and Node.js, optimized for Android scanners, enabling fast barcode capture, CSV exports, and API access with role-based workflows.
-- 📱 **PEX App** – A React Native companion to the PEX website, designed to bring core features to mobile with seamless integration, real-time sync, and a streamlined user experience.
-- 🖥️ **PEX** - Modernizing a legacy PHP codebase while building new features in React Native and Node.js. Contributions include developing and updating pages, improving workflows, and enhancing the admin portal to support better management and scalability.
+### 💼 Part-Time / Contract Work
+- 📱 **SP Scanner & API** – Internal warehouse tool (React Native + Node.js), optimized for Android scanners with barcode capture, CSV exports, and role-based workflows.  
+- 📱 **PEX App** – Companion mobile app for PEX, bringing website features to **React Native** with real-time sync and a streamlined UX.  
+- 🖥️ **PEX (Web)** – Ongoing modernization of a **legacy PHP codebase**, plus new feature development in React Native and Node.js. Work includes building/admin pages, improving workflows, and enhancing the admin portal.  
 
 ### 💬 About Me
-- 📫 How to reach me: **danilsidorov8625@gmail.com**  
+- 📫 Reach me at: **danilsidorov8625@gmail.com**  
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: I love the gym and lifting weights 💪  
 
-🌟 Looking to transition fully into **Software Development** and grow my skills across the stack.  
+🌟 Looking to transition fully into **Software Engineering** and grow my skills across the stack.  
 
 ---
 
