@@ -2,7 +2,7 @@
 
 💼 Currently at **Verizon** (Project Management)  
 🖥️ Passionate about **Full-Stack Development** (Frontend & Backend)  
-📱 Part-time at **PEX** – building modern apps & improving legacy systems  
+📱 Part-time at **PEX** – building React Native apps & improving legacy systems && building new functionality 
 
 ### 🔭 Currently Working On
 - **Vibe Search App** – Search media online based on vibes (built with **Deno + Vector DB**)  
