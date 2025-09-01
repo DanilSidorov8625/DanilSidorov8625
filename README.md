@@ -18,7 +18,7 @@
 ### 📂 Side Projects
 - **[Scan](https://scans.omnaris.xyz/)** — Warehouse scanning app built with **Node.js** and **EJS**; supports barcode input, analytics, and CSV/email exports.  
 - **[One Million Images](https://omnaris.xyz/)** — Collaborative **Node.js + vanilla JS** project rendering a **1000×1000 image grid** with realtime uploads, zoom/pan, and caching.  
-- **[Portfolio]((https://danilsidorov8625.github.io/Portfolio/))** — Personal showcase & Portfolio - **HTML** and **Vanilla JS**
+- **[Portfolio](https://danilsidorov8625.github.io/Portfolio/)** — Personal showcase & Portfolio - **HTML** and **Vanilla JS**
 - **IDEAS**
   - VibeSearch
   - Bookmark Manager
