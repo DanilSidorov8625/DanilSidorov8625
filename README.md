@@ -22,7 +22,7 @@
 
 ### 💼 Part-Time / Contract Work
 - 📱 **SP Scanner & API** – Internal warehouse tool (React Native + Node.js), optimized for Android scanners with barcode capture, CSV exports, and role-based workflows.  
-- 📱 **PEX App** – Companion mobile app for PEX, bringing website features to **React Native** with real-time sync and a streamlined UX.  
+- 📱 **PEX App** – Companion mobile app for PEX, bringing website features to **React Native** with real-time sync, streamlined UI/UX and Russian Internalization.  
 - 🖥️ **PEX (Web)** – Ongoing modernization of a **legacy PHP codebase**, plus new feature development in React Native and Node.js. Work includes building pages, improving workflows, and enhancing the admin portal.  
 
 ### 💬 About Me
