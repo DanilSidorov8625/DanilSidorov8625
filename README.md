@@ -15,10 +15,21 @@
 **Backend:** Node.js • Deno • PHP • Laravel • Python • Go  
 **Other:** SQL/SQLite • Docker • Git • C • Linux OS • Docker Compose • Expo • EAS 
 
-### 📂 Previous Projects
+### 📂 Side Projects
 - **[Scan](https://scans.omnaris.xyz/)** — Warehouse scanning app built with **Node.js** and **EJS**; supports barcode input, analytics, and CSV/email exports.  
 - **[One Million Images](https://omnaris.xyz/)** — Collaborative **Node.js + vanilla JS** project rendering a **1000×1000 image grid** with realtime uploads, zoom/pan, and caching.  
-- **Portfolio** — Personal showcase *(In Progress, built with React)*.  
+- **Portfolio** — Personal showcase *(In Progress, built with React)*.
+- **IDEAS**
+  - VibeSearch
+  - Bookmark Manager
+  - Proximity Chat
+  - ZipShare
+  - TTOF
+  - LLMAIFFN Stories
+  - Tiny Dock
+  - Data Website
+  - P2P Skill Games | Knowledge
+  - Crypto Bot
 
 ### 💼 Part-Time / Contract Work
 - 📱 **SP Scanner & API** – Internal warehouse tool (React Native + Node.js), optimized for Android scanners with barcode capture, CSV exports, and role-based workflows.  
