@@ -23,7 +23,8 @@
 ### 💼 Part-Time / Contract Work
 - 📱 **SP Scanner & API** – Internal warehouse tool (React Native + Node.js), optimized for Android scanners with barcode capture, CSV exports, and role-based workflows.  
 - 📱 **PEX App** – Companion mobile app for PEX, bringing website features to **React Native** with real-time sync, streamlined UI/UX and Russian Internalization.  
-- 🖥️ **PEX (Web)** – Ongoing modernization of a **legacy PHP codebase**, plus new feature development in React Native and Node.js. Work includes building pages, improving workflows, and enhancing the admin portal.  
+- 🖥️ **PEX (Web)** – Ongoing modernization of a **legacy PHP codebase**, plus new feature development in React Native and Node.js. Work includes building pages, improving workflows, and enhancing the admin portal.
+- 🤖 **PEX (RAG AI Chatbot)** – Development of a Retrieval-Augmented Generation system that combines vector search with API integrations. The chatbot retrieves context from a knowledge base, enriches responses with live API data, and provides accurate, real-time answers to user questions.
 
 ### 💬 About Me
 - 📫 Reach me at: **danilsidorov8625@gmail.com**  
