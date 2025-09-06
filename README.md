@@ -41,7 +41,8 @@
 ### 💬 About Me
 - 📫 Reach me at: **danilsidorov8625@gmail.com**  
 - 😄 Pronouns: **he/him**  
-- ⚡ Fun fact: I love the gym and lifting weights 💪  
+- ⚡ Fun fact: I love the gym and lifting weights 💪
+- Intermediate at Russian
 
 🌟 Looking to transition fully into **Software Engineering** and grow my skills across the stack.  
 
