@@ -20,7 +20,6 @@
 - **[One Million Images](https://omnaris.xyz/)** — Collaborative **Node.js + vanilla JS** project rendering a **1000×1000 image grid** with realtime uploads, zoom/pan, and caching.  
 - **[Portfolio](https://danil.omnaris.xyz/)** — Personal showcase & Portfolio - **Node.js** and **React.js**
 - **[PowerScan](https://powerscan.omnaris.xyz/)** — Powerball ticket checker - **Noode.js + React.js**
-  
 - **IDEAS**
   - VibeSearch
   - Bookmark Manager
