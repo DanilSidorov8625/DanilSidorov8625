@@ -18,7 +18,9 @@
 ### 📂 Side Projects
 - **[Scan](https://scans.omnaris.xyz/)** — Warehouse scanning app built with **Node.js** and **EJS**; supports barcode input, analytics, and CSV/email exports.  
 - **[One Million Images](https://omnaris.xyz/)** — Collaborative **Node.js + vanilla JS** project rendering a **1000×1000 image grid** with realtime uploads, zoom/pan, and caching.  
-- **[Portfolio](https://danilsidorov8625.github.io/Portfolio/)** — Personal showcase & Portfolio - **HTML** and **Vanilla JS**
+- **[Portfolio](https://danil.omnaris.xyz/)** — Personal showcase & Portfolio - **Node.js** and **React.js**
+- **[PowerScan](https://powerscan.omnaris.xyz/)** — Powerball ticket checker - **Noode.js + React.js**
+  
 - **IDEAS**
   - VibeSearch
   - Bookmark Manager
@@ -42,7 +44,7 @@
 - 📫 Reach me at: **danilsidorov8625@gmail.com**  
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: I love the gym and lifting weights 💪
-- Intermediate at Russian
+- 🇷🇺 Intermediate at Russian
 
 🌟 Looking to transition fully into **Software Engineering** and grow my skills across the stack.  
 
