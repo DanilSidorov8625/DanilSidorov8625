@@ -32,7 +32,6 @@
   - Data Website
   - P2P Skill Games | Knowledge
   - Crypto Bot
-  - PowerScan
 
 ### 💼 Part-Time / Contract Work
 - 📱 **SP Scanner & API** – Internal warehouse tool (React Native + Node.js), optimized for Android scanners with barcode capture, CSV exports, and role-based workflows.  
