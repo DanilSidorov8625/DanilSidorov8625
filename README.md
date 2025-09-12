@@ -22,8 +22,8 @@
 - **[PowerScan](https://powerscan.omnaris.xyz/)** — Powerball ticket checker - **Noode.js + React.js**
 - **[FormFlow](https://formflow.omnaris.xyz/)** - Lightweight, self-hostable Deno microservice for securely processing form submissions and sending emails via a simple API-first design.
 - **IDEAS**
-  - VibeSearch
   - Bookmark Manager
+  - VibeSearch
   - Proximity Chat
   - ZipShare
   - TTOF
