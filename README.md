@@ -21,17 +21,6 @@
 - **[Portfolio](https://omnaris.xyz/)** — Personal showcase & Portfolio - **Node.js** and **React.js**
 - **[PowerScan](https://powerscan.omnaris.xyz/)** — Powerball ticket checker - **Noode.js + React.js**
 - **[FormFlow](https://formflow.omnaris.xyz/)** - Lightweight, self-hostable Deno microservice for securely processing form submissions and sending emails via a simple API-first design.
-- **IDEAS**
-  - Bookmark Manager
-  - VibeSearch
-  - Proximity Chat
-  - ZipShare
-  - TTOF
-  - LLMAIFFN Stories
-  - Tiny Dock
-  - Data Website
-  - P2P Skill Games | Knowledge
-  - Crypto Bot
 
 ### 💼 Part-Time / Contract Work
 - 📱 **SP Scanner & API** – Internal warehouse tool (React Native + Node.js), optimized for Android scanners with barcode capture, CSV exports, and role-based workflows.  
